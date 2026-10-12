@@ -4,4 +4,5 @@ __pycache__/
 .claude/
 *.mp4
 *.webm
-screenshots/
+/screenshots/
+*.zip
