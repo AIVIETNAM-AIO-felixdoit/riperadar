@@ -1,5 +1,7 @@
 <h1 align="center">RipeRadar</h1>
 
+<p align="center"><img src="docs/banner.png" alt="RipeRadar banner" width="720"></p>
+
 <p align="center"><b>Snap your fruit &amp; veg, and find out exactly when to eat it.</b></p>
 
 <p align="center">
@@ -28,6 +30,15 @@ in the bin.
 ## Why
 Roughly a third of food is wasted, and fresh produce is the biggest share at home. Usually that's not because
 people don't care. They just don't know what is about to turn. RipeRadar makes that visible.
+
+## Screenshots
+| Scan & analysis overlay | Ripeness result |
+| --- | --- |
+| ![Banana scan with segmentation and spot overlay](docs/screenshots/1_banana_scan.png) | ![Banana ripeness card](docs/screenshots/2_banana_result.png) |
+| **Multiple items (fridge mode)** | **Per-item scores** |
+| ![Mixed fruit scan](docs/screenshots/3_mixed_scan.png) | ![Mixed fruit item cards](docs/screenshots/4_mixed_items.png) |
+| **Pantry eat-first list** | **How it works** |
+| ![Pantry tracker](docs/screenshots/5_pantry.png) | ![How it works section](docs/screenshots/6_how_it_works.png) |
 
 ## How it works
 1. **Segment:** the background colour is estimated from the frame border. Lab colour distance plus saturation
