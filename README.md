@@ -1,18 +1,29 @@
 <h1 align="center">RipeRadar</h1>
 
-[![Devpost](https://img.shields.io/badge/Devpost-Submission-003E54?logo=devpost&logoColor=white)](https://devpost.com/software/riperadar)
-[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/_8mLmJ7hfnQ)
-[![Vision](https://img.shields.io/badge/Vision-OpenCV%20%2B%20CLIP-5C3EE8?logo=opencv&logoColor=white)](#how-it-works)
-[![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)](#tech)
-[![AI](https://img.shields.io/badge/AI-Gemini-8E75B2?logo=googlegemini&logoColor=white)](#how-it-works)
+<p align="center"><b>Snap your fruit &amp; veg, and find out exactly when to eat it.</b></p>
 
-RipeRadar is an image-AI web app that tells you exactly when to eat your fruit and vegetables. It finds every
-produce item in a photo, measures its colour and bruising, scores ripeness 0–100, predicts how many days you have
-left, and builds a "use-it-up" plan so less food ends up in the bin.
+<p align="center">
+  <a href="https://devpost.com/software/riperadar"><img src="https://img.shields.io/badge/Devpost-Submission-003E54?logo=devpost&logoColor=white" alt="Devpost submission"></a>
+  <a href="https://youtu.be/_8mLmJ7hfnQ"><img src="https://img.shields.io/badge/YouTube-Demo%20video-FF0000?logo=youtube&logoColor=white" alt="Demo video"></a>
+  <img src="https://img.shields.io/badge/Banana%20Hacks-2026-F5C518" alt="Banana Hacks 2026">
+</p>
 
-- Submission: [devpost.com/software/riperadar](https://devpost.com/software/riperadar)
-- Demo video: [youtu.be/_8mLmJ7hfnQ](https://youtu.be/_8mLmJ7hfnQ)
-- Hackathon: [Banana Hacks 2026](https://banana-hacks-1111.devpost.com/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/CLIP-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="CLIP via Hugging Face">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Gemini">
+</p>
+
+RipeRadar is an image-AI web app that finds every produce item in a photo, measures its colour and bruising,
+scores ripeness 0–100, predicts how many days you have left, and builds a "use-it-up" plan so less food ends up
+in the bin.
+
+- Demo video: [RipeRadar on YouTube](https://youtu.be/_8mLmJ7hfnQ)
+- Hackathon Event: [Banana Hacks 2026](https://banana-hacks-1111.devpost.com/)
+- Hackathon Submission: [RipeRadar on Devpost](https://devpost.com/software/riperadar)
 
 ## Why
 Roughly a third of food is wasted, and fresh produce is the biggest share at home. Usually that's not because
