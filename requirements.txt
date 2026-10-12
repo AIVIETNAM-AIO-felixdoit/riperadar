@@ -1,0 +1,10 @@
+torch
+transformers
+opencv-python-headless
+numpy
+pillow
+fastapi
+uvicorn[standard]
+python-multipart
+google-genai
+python-dotenv
