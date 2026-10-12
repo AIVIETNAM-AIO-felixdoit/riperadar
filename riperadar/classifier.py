@@ -37,6 +37,8 @@ class ProduceClassifier:
 
     @staticmethod
     def _norm(x):
+        if not isinstance(x, torch.Tensor):  # transformers>=5 wraps projected features
+            x = x.pooler_output
         return x / x.norm(dim=-1, keepdim=True)
 
     def _embed_text(self, texts):
