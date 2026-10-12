@@ -4,7 +4,7 @@
 produce item in a photo, measures its colour and bruising, scores ripeness 0–100, predicts how many days you have
 left, and builds a "use-it-up" plan so less food ends up in the bin.
 
-Built for **Banana Hacks 2026** (Image AI theme).
+Built for **Banana Hacks 2026** (Image AI theme). 🎬 **Demo video:** https://youtu.be/_8mLmJ7hfnQ
 
 ## Why
 Roughly a third of food is wasted, and fresh produce is the biggest share at home. Usually that's not because
