@@ -41,6 +41,8 @@ people don't care. They just don't know what is about to turn. RipeRadar makes t
 | ![Pantry tracker](docs/screenshots/5_pantry.png) | ![How it works section](docs/screenshots/6_how_it_works.png) |
 
 ## How it works
+![RipeRadar architecture](docs/architecture.png)
+
 1. **Segment:** the background colour is estimated from the frame border. Lab colour distance plus saturation
    seeds an OpenCV **GrabCut** mask, and morphology splits the mask into individual items.
 2. **Measure:** per-item HSV analysis gives the green/yellow/red share of the skin. Adaptive darkness and
